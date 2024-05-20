@@ -11,10 +11,12 @@
 <br>
 <h2 align="left">🤝 Connect with me</h2>
 <p align="left">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&link=https://linkedin.com/in/houssem-dimassi-4b1880198/)](https://www.linkedin.com/in/houssem-dimassi-4b1880198/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&link=https://facebook.com/houssem.dimassi.5)](https://www.facebook.com/houssem.dimassi.5)
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/houssem-dimassi-4b1880198/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/salma-soussi-dev20/" height="30" width="40" /></a>
+</p>
+<a href="https://www.facebook.com/houssem.dimassi.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg" alt="https://www.facebook.com/houssem.dimassi.5/" height="30" width="40" /></a>
 </p>
 <br>
+
 
 
 <!-- Add more badges as needed -->
