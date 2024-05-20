@@ -4,7 +4,7 @@
 <h2>⭐ About me</h2>
 
 - 🔧 I'm currently working on SpringBoot App
-- 💬 Ask me about **Java, Spring, Angular, ReactJS.
+- 💬 Ask me about Java, Spring, Angular, ReactJS.
 - 📫 How to reach me houssemdimassii@gmail.com
 - 💪 Future Goals: Learn more technologies
 
